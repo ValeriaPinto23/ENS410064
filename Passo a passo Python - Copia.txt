@@ -1,0 +1,30 @@
+C:\Users\User\Documents\GitHub
+python --version
+
+para sair: exit
+
+
+C:\Users\User>cd Documents
+
+C:\Users\User\Documents>cd GitHub
+
+C:\Users\User\Documents\GitHub>cd ENS410064
+
+C:\Users\User\Documents\GitHub\ENS410064>cd pyEnv
+
+C:\Users\User\Documents\GitHub\ENS410064\pyEnv>cd Scripts
+
+C:\Users\User\Documents\GitHub\ENS410064\pyEnv\Scripts>activate
+
+(pyEnv) C:\Users\User\Documents\GitHub\ENS410064\pyEnv\Scripts>cd ..
+
+(pyEnv) C:\Users\User\Documents\GitHub\ENS410064\pyEnv>cd ..
+
+
+python -m venv pyenv
+
+
+(pyEnv) C:\Users\User\Documents\GitHub\ENS410064>jupyter notebook
+
+
+para instalar qualquer pacote: pip install (pacote), ex.: pip install pandas
