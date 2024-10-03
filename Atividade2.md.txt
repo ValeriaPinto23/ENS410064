@@ -1,0 +1,12 @@
+Consegui uma base de dados simples* para trabalhar, mas não estou conseguindo importar para o pandas. 
+*(número de acidentes de trabalho com Cat ocorridos de 2002 a 2022)
+
+http://localhost:8888/notebooks/Atividade2.ipynb
+
+```python
+import pandas as pd
+ATCAT = pd.read_xlsx("ATCAT.xlsx")
+print(ATCAT)
+
+
+```
